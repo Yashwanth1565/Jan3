@@ -1,1 +1,3 @@
 # Jan3
+
+Creating a String and accessing using Indexing and perfoming the string opeartions...
